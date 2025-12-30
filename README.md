@@ -31,14 +31,14 @@ A command‑line Gomoku (Five‑in‑a‑Row) game built using **F#** and the **
 
 ## 🧩 Game Architecture
 
-GomokuProject.fsproj
+GomokuProject.fsproj  
 ├── models/
-│   ├── Board.fs         # Board representation and types
-│   └── Menu.fs          # Menu and user input handling
-├── Logic/
-│   └── Game.fs          # Core game logic, win/draw checks, CPU move
-└── src/
-└── Program.fs       # Entry point and game loop
+│   ├── Board.fs         # Board representation and types  
+│   └── Menu.fs          # Menu and user input handling  
+├── Logic/  
+│   └── Game.fs          # Core game logic, win/draw checks, CPU move  
+└── src/  
+└── Program.fs       # Entry point and game loop  
 
 
 
