@@ -32,7 +32,7 @@ A command‑line Gomoku (Five‑in‑a‑Row) game built using **F#** and the **
 ## 🧩 Game Architecture
 
 GomokuProject.fsproj  
-├── models/
+├── models/  
 │   ├── Board.fs         # Board representation and types  
 │   └── Menu.fs          # Menu and user input handling  
 ├── Logic/  
