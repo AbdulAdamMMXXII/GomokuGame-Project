@@ -4,7 +4,7 @@ A command‑line Gomoku (Five‑in‑a‑Row) game built using **F#** and the **
 
 ---
 
-## 🎮 Features
+## Features
 
 - 15×15 Gomoku board  
 - Two‑player mode  
@@ -18,7 +18,7 @@ A command‑line Gomoku (Five‑in‑a‑Row) game built using **F#** and the **
 
 ---
 
-## 🧠 Functional Programming Concepts Used
+## Functional Programming Concepts Used
 
 - **Immutability** for predictable state transitions  
 - **Pattern matching** for game logic and board evaluation  
@@ -29,7 +29,7 @@ A command‑line Gomoku (Five‑in‑a‑Row) game built using **F#** and the **
 
 ---
 
-## 🧩 Game Architecture
+## Game Architecture
 
 GomokuProject.fsproj  
 ├── models/  
@@ -44,7 +44,7 @@ GomokuProject.fsproj
 
 ---
 
-## 📐 Mathematical & Logical Foundations
+## Mathematical & Logical Foundations
 
 ### **Gherkin Scenarios (BDD)**
 Used to define behaviour from the user’s perspective, mapping to Hoare Logic (Given–When–Then).
@@ -64,7 +64,7 @@ Used to define behaviour from the user’s perspective, mapping to Hoare Logic (
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### **Manual Testing**
 Covers:
@@ -86,7 +86,7 @@ Covers:
 
 ---
 
-## 🤖 CPU Logic
+## CPU Logic
 
 The CPU selects a random valid move from available empty cells.  
 Future improvements may include:
@@ -96,7 +96,7 @@ Future improvements may include:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Implement Minimax for smarter CPU  
 - Introduce monadic patterns (`Option`, `Result`, `Async`)  
@@ -106,7 +106,7 @@ Future improvements may include:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **F#**  
 - **.NET SDK**  
@@ -117,7 +117,7 @@ Future improvements may include:
 
 ---
 
-## 📚 Authors
+## Authors
 
 - **Abdulrazig I Adam**
 - **Robin Petelo** 
@@ -126,7 +126,7 @@ Future improvements may include:
 
 ---
 
-## 📄 License
+## License
 
 This project is for academic and educational purposes.
 
